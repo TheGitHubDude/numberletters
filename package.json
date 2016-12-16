@@ -1,0 +1,12 @@
+{
+  "name": "numberletters",
+  "version": "1.0.0",
+  "description": "Switches numbers for letters and switches letters for numbers; also tells you when the number is too high",
+  "main": "lib\\app.js",
+  "scripts": {
+    "start": "node lib/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert",
+  "license": "ISC"
+}
